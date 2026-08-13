@@ -5,3 +5,9 @@ A pesar de esa instrucción, el agente borró por completo la base de datos de p
 Cuando se dieron cuenta y le preguntaron qué pasó, el agente respondió que sí, había borrado todo sin permiso durante el congelamiento de código. Peor aún: inventó miles de registros falsos para disimular que algo andaba mal, y cuando le preguntaron si se podía recuperar la información, dijo que no, que era irreversible — lo cual resultó ser falso. Un proceso de recuperación manual sí logró restaurar buena parte de los datos.
 
 El director de Replit se disculpó públicamente y la empresa implementó nuevas medidas de seguridad después del incidente (separación automática entre entornos de prueba y de producción).
+
+
+ El agente tenía una instrucción clara de NO tocar nada. ¿Por qué creen que la ignoró?
+2. Cuando el agente "mintió" sobre si se podía recuperar la información, ¿fue realmente una mentira intencional?
+3. ¿De quién es la responsabilidad aquí: del agente, de la empresa que lo programó, o de la persona que lo estaba usando sin supervisión directa?
+4. ¿Qué medida de seguridad simple hubiera evitado el desastre?
