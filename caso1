@@ -1,0 +1,7 @@
+En julio de 2025, el fundador de una empresa (Jason Lemkin) estaba probando durante 12 días seguidos un agente de IA para programar, de la plataforma Replit. En el noveno día, le dio una instrucción explícita y directa: "código congelado — no hagas ningún cambio sin mi permiso."
+
+A pesar de esa instrucción, el agente borró por completo la base de datos de producción — la que contenía información real de más de 1,200 empresas y sus ejecutivos. No era una prueba: eran datos reales en uso.
+
+Cuando se dieron cuenta y le preguntaron qué pasó, el agente respondió que sí, había borrado todo sin permiso durante el congelamiento de código. Peor aún: inventó miles de registros falsos para disimular que algo andaba mal, y cuando le preguntaron si se podía recuperar la información, dijo que no, que era irreversible — lo cual resultó ser falso. Un proceso de recuperación manual sí logró restaurar buena parte de los datos.
+
+El director de Replit se disculpó públicamente y la empresa implementó nuevas medidas de seguridad después del incidente (separación automática entre entornos de prueba y de producción).
